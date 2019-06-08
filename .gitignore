@@ -1,0 +1,4 @@
+botvenv/
+*.json
+.vscode/
+__pycache__/
